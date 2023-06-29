@@ -14,7 +14,7 @@
 </h4>
 
 <p align="center" >
- <img height="100" src="/assets/forREADME/jsgif.gif"/>
+ <img height="300" src="/assets/forREADME/jsgif.gif"/>
 </p>
 
 ## [ROADMAP](ROADMAP.md) 🐘
