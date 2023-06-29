@@ -14,7 +14,7 @@
 </h4>
 
 <p align="center" >
- <img src="https://giphy.com/gifs/devrock-javascript-edr-escueladevrock-ln7z2eWriiQAllfVcn?utm_source=iframe&utm_medium=embed&utm_campaign=Embeds&utm_term=" height="100]"/>
+ <img height="100" src="/assets/forREADME/jsgif.gif"/>
 </p>
 
 ## [ROADMAP](ROADMAP.md) 🐘
