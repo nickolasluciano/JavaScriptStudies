@@ -70,8 +70,8 @@
 - [x]  [Classe](./4.objeto/classe/classe.md)
 
 ## 5. Array
-- [x]  Visão geral
-- [x]  Métodos Importantes
+- [x]  [Visão geral](./5.array/visaoGeral/visaoGeral.md)
+- [x]  [Métodos Importantes](./5.array/metodoImportantes/metodosImportantes.md)
 - [ ]  Foreach
 - [ ]  Map
 - [ ]  Filter
