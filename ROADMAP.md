@@ -17,10 +17,10 @@
 - [x]  [Usando Math](./1.fundamentos/math/math.md)
 - [x]  [Tipos em JavaScript: String](./1.fundamentos/strings/strings.md)
 - [x]  [Tipos em JavaScript: Boolean](./1.fundamentos/booleanos/boolean.md)
-- [x]  Tipos em JavaScript: Array
-- [x]  Tipos em JavaScript: Object
-- [x]  Entendendo o Null & Undefined
-- [x]  Função
+- [x]  [Tipos em JavaScript: Array](./1.fundamentos/arrays/arrays.md)
+- [x]  [Tipos em JavaScript: Object](./1.fundamentos/objeto/objeto.md)
+- [x]  [Entendendo o Null & Undefined](./1.fundamentos/nullUndefined/nullUndefined.md)
+- [x]  [Função](/1.fundamentos/funcao/funcao.md)
 - [x]  Var
 - [x]  Let
 - [x]  Entendendo o Hoisting
