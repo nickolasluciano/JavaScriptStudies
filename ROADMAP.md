@@ -28,22 +28,20 @@
 - [x]  [Operadores: Atribuição](./1.fundamentos/atribuição/atribuicao.md)
 - [x]  [Operadores: Destructuring](./1.fundamentos/destructuring/destructuring.md)
 - [x]  [Operadores: Aritméticos](./1.fundamentos/aritiméticos/aritimetico.md)
-- [x]  Operadores: Relacionais
-- [x]  Operadores: Lógicos
-- [x]  Operadores: Unários
-- [x]  Operadores: Ternário
-- [x]  Contexto de Execução: Browser vs Node
-- [x]  Tratamento de Erro (Try/Catch/Throw)
+- [x]  [Operadores: Relacionais](./1.fundamentos/relacionais/relacionais.md)
+- [x]  [Operadores: Lógicos](./1.fundamentos/logicos/logicos.md)
+- [x]  [Operadores: Unários](./1.fundamentos/unarios/unarios.md)
+- [x]  [Operadores: Ternário](./1.fundamentos/ternario/ternario.md)
 
 ## 2. Estruturas de controle
-- [x]  Visão geral
-- [x]  Estrutura IF / Else / Else IF
-- [x]  Estrutura SWITCH
-- [x]  Estrutura WHILE
-- [x]  Estrutura DO/WHILE
-- [x]  Estrutura FOR
-- [x]  Estrutura FOR/IN
-- [x]  Break/Continue
+- [x]  [Visão geral](./2.controle/visaoGeral/visaoGeral.md)
+- [x]  [Estrutura IF / Else / Else IF](./2.controle/if/if.md)
+- [x]  [Estrutura SWITCH](./2.controle/switch/switch.md)
+- [x]  [Estrutura WHILE](./2.controle/while/while.md)
+- [x]  [Estrutura DO/WHILE](./2.controle/doWhile/doWhile.md)
+- [x]  [Estrutura FOR](./2.controle/for/for.md)
+- [x]  [Estrutura FOR/IN](./2.controle/forIn/forIn.md)
+- [x]  [Break/Continue](./2.controle/breakContinue/breakContinue.md)
 
 ## 3. Função
 - [x]  Parâmetros
