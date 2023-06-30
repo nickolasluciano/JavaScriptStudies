@@ -61,7 +61,7 @@
 - [x]  [Introdução OO](./4.objeto/OO/oo.md)
 - [x]  [Revisão sobre Objeto](./4.objeto/ObjetoRevisão/ObjetoRevisão.md)
 - [x]  [Estratégias de Criação de Objetos](./4.objeto/criandoObj/criandoObj.md)
-- [x]  [Objetos constantes](./4.objeto/objetosConstantes/objetosConstantes.md)
+- [x]  [Objetos constantes](./4.objeto/ObjetosConstantes/objetosConstantes.md)
 - [x]  [Notação Literal](./4.objeto/notacaoLiteral/notacaoLiteral.md)
 - [x]  [Getters/Setters](./4.objeto/gettersESetters/gettersESetters.md)
 - [x]  [Funções Importantes de Objeto](./4.objeto/funcoesImportantes/funcoesImportantes.md)
