@@ -22,8 +22,8 @@
 - [x]  [Entendendo o Null & Undefined](./1.fundamentos/nullUndefined/nullUndefined.md)
 - [x]  [Função](/1.fundamentos/funcao/funcao.md)
 - [x]  [Var](./1.fundamentos/Var/var.md)
-- [x]  Let
-- [x]  Entendendo o Hoisting
+- [x]  [Let](./1.fundamentos/Let/let.md)
+- [x]  [Entendendo o Hoisting](./1.fundamentos/hoisting/hoisting.md)
 - [x]  Função Vs Objeto
 - [x]  Notação Ponto
 - [x]  Operadores: Atribuição
