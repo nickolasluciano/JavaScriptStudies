@@ -40,4 +40,4 @@
 Sinta-se à vontade para contribuir com suas próprias anotações e exemplos adicionais. Basta fazer um fork deste repositório, adicionar suas alterações e enviar um pull request. Sua contribuição será muito bem-vinda!
 
 ### Licença
-Este projeto está licenciado sob a [MIT License](./assets/MIT-License).
+Este projeto está licenciado sob a [MIT License](./assets/MIT-License.txt).
