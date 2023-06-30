@@ -8,8 +8,8 @@
 - [x]  [Trabalhando com Dados](./0.Inicio/dados/dados.md)
 
 ## 1. Fundamentos 
-- [x]  Visão Geral de Algoritmo
-- [x]  Visão Geral de Estruturas de Dados
+- [x]  [Visão Geral de Algoritmo](./1.fundamentos/visaoGeral/visaoGeral.md)
+- [x]  [Visão Geral de Estruturas de Dados](./1.fundamentos/estruturaDeDados/estruturaDeDados.md)
 - [x]  Organização Básica de um Código JS
 - [x]  O Básico de Var, Let e Const
 - [x]  Tipagem Fraca
