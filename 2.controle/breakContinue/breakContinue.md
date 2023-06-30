@@ -16,7 +16,7 @@ console.log(i);
 }
 ```
     
-    No exemplo acima, o loop **`for`** é executado enquanto **`i`** for menor que 5. Quando **`i`** é igual a 3, o comando **`break`** é acionado, e o loop é interrompido. O resultado impresso no console será:
+No exemplo acima, o loop **`for`** é executado enquanto **`i`** for menor que 5. Quando **`i`** é igual a 3, o comando **`break`** é acionado, e o loop é interrompido. O resultado impresso no console será:
     
 ```
 0
