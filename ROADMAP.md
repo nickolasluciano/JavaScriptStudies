@@ -58,7 +58,7 @@
 - [x]  [Call & Apply](./3.função/callApply/callApply.md)
 
 ## 4. Objeto
-- [x]  [Introdução OO](./4.objeto/oo/oo.md)
+- [x]  [Introdução OO](./4.objeto/OO/oo.md)
 - [x]  [Revisão sobre Objeto](./4.objeto/ObjetoRevisão/ObjetoRevisão.md)
 - [x]  [Estratégias de Criação de Objetos](./4.objeto/criandoObj/criandoObj.md)
 - [x]  [Objetos constantes](./4.objeto/objetosConstantes/objetosConstantes.md)
