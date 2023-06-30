@@ -61,7 +61,20 @@
 - [x]  IIFE
 - [x]  Call & Apply
 
-## 4. Requisição de arquivos
+## 4. Objeto
+- [x]  Introdução OO
+- [x]  Revisão sobre Objeto
+- [x]  Estratégias de Criação de Objetos
+- [x]  Objetos constantes
+- [x]  Notação Literal
+- [x]  Getters/Setters
+- [x]  Funções Importantes de Objeto
+- [x]  Herança
+- [x]  Evitando Modificações
+- [x]  JSON vs Objeto
+- [x]  Classe
+
+## 5. Requisição de arquivos
 - [x]  Introdução a OO
 - [x]  Revisão sobre Objeto
 - [x]  Estratégias de Criação de Objetos
@@ -73,7 +86,7 @@
 - [x]  JSON vs Objeto
 - [x]  Classe
 
-## 5. Array
+## 6. Array
 - [x]  Visão geral
 - [x]  Métodos Importantes
 - [ ]  Foreach
@@ -84,7 +97,7 @@
 - [ ]  Concat
 - [ ]  FlatMap
 
-## 6. Node
+## 7. Node
 - [ ]  Visão Geral
 - [ ]  Sistema De Módulos
 - [ ]  Usando Módulos de Terceiros
@@ -101,7 +114,7 @@
 - [ ]  API com express
 - [ ]  Process: Entrada e Saída Padrão
 
-## 7. ESNext
+## 8. ESNext
 - [ ]  Revisão
 - [ ]  Operador Rest/Spread
 - [ ]  Tagged Template
@@ -114,7 +127,7 @@
 - [ ]  Async/Await
 - [ ]  Promise
 
-## 8. Conceitos sobre Web
+## 9. Conceitos sobre Web
 - [ ]  Introdução
 - [ ]  Protocolo HTTP
 - [ ]  Servidor Web
@@ -126,7 +139,7 @@
 - [ ]  Web Service
 - [ ]  Computação em Nuvem
 
-## 9. HTML
+## 10. HTML
 - [ ]  Anatomia da TAG
 - [ ]  Anatomia de uma página HTML
 - [ ]  Um Pouco de CSS
@@ -139,7 +152,7 @@
 - [ ]  Vídeo
 - [ ]  Tags Não Visuais
 
-## 10. CSS
+## 11. CSS
 - [ ]  Introdução
 - [ ]  Anatomia CSS
 - [ ]  CSS interno, Externo e Inline
@@ -164,7 +177,7 @@
 - [ ]  Flex Box
 - [ ]  CSS Grid
 
-## 11. Integrando HTML, CSS e JS
+## 12. Integrando HTML, CSS e JS
 - [ ]  O que é DOM?
 - [ ]  Selecionando Elementos
 - [ ]  Acessando Atributos
@@ -172,7 +185,7 @@
 - [ ]  Modificando HTML
 - [ ]  Trabalhando c/ Eventos
 
-## 12. Ajax
+## 13. Ajax
 - [ ]  O que é Ajax?
 - [ ]  Implementando server.js
 - [ ]  XMLHttpRequest
@@ -181,7 +194,7 @@
 - [ ]  Ajax com jQuery
 - [ ]  Carregando HTML via Ajax
 
-## 13. Gulp
+## 14. Gulp
 - [ ]  Introdução
 - [ ]  Entendendo o Gulp
 - [ ]  Fundamentos de Gulp
@@ -192,7 +205,7 @@
 - [ ]  O Que é SASS?
 - [ ]  Processando SASS com Gulp
 
-## 14. Webpack
+## 15. Webpack
 - [ ]  Visão geral
 - [ ]  Sistema de Módulos
 - [ ]  Carregando Arquivo .CSS
@@ -202,7 +215,7 @@
 - [ ]  Carregando Arquivos de Imagens
 - [ ]  Adicionando WebServer
 
-## 15. jQuery
+## 16. jQuery
 - [ ]  O que é jQuery?
 - [ ]  Entendendo jQuery
 - [ ]  Selecionando Elementos
@@ -213,7 +226,7 @@
 - [ ]  Animação
 - [ ]  Plugin
 
-## 16. Bootstrap
+## 17. Bootstrap
 - [ ]  Adicionando Navegação
 - [ ]  Tipografia
 - [ ]  Espaços (Margin & Padding)
@@ -232,7 +245,7 @@
 - [ ]  Accordion
 - [ ]  Formulário
 
-## 17. React
+## 18. React
 - [ ]  Criando Projeto
 - [ ]  Primeiro Componente
 - [ ]  Componente Com Parâmetro
@@ -240,7 +253,7 @@
 - [ ]  Componente de Classe
 - [ ]  Componentes: Pai & Filho
 
-## 18. VueJS
+## 19. VueJS
 - [ ]  Conceitos Básicos
 - [ ]  Binding
 - [ ]  Eventos
@@ -250,7 +263,7 @@
 - [ ]  Componente
 - [ ]  Diretiva Personalizada
 
-## 19. Angular 9
+## 20. Angular 9
 - [ ]  Introdução do Módulo
 - [ ]  Backend com JSON Server
 - [ ]  Visão Geral do Angular
@@ -283,7 +296,7 @@
 - [ ]  Exibindo as Mensagens de Erro
 - [ ]  Atualizando os Títulos
 
-## 20. Banco Relacional
+## 21. Banco Relacional
 - [ ]  Modelo E/R
 - [ ]  Chave Primária
 - [ ]  Relacionamentos
@@ -309,7 +322,7 @@
 - [ ]  Inserir Empresas
 - [ ]  Consultar Empresas e Cidades
 
-## 21. Banco Não Relacional
+## 22. Banco Não Relacional
 - [ ]  NoSQL: Visão Geral
 - [ ]  Relacional e Não Relacional
 - [ ]  Comandos Básicos
@@ -320,7 +333,7 @@
 - [ ]  Inserir Empresas
 - [ ]  Consulta com Lookup
 
-## 22. Express
+## 23. Express
 - [ ]  Introdução
 - [ ]  Criando o Projeto
 - [ ]  Configuração & Launcher
