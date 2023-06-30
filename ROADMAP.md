@@ -10,7 +10,7 @@
 ## 1. Fundamentos 
 - [x]  [Visão Geral de Algoritmo](./1.fundamentos/visaoGeral/visaoGeral.md)
 - [x]  [Visão Geral de Estruturas de Dados](./1.fundamentos/estruturaDeDados/estruturaDeDados.md)
-- [x]  Organização Básica de um Código JS
+- [x]  [Organização Básica de um Código JS](./1.fundamentos/organização/organizacao.md)
 - [x]  O Básico de Var, Let e Const
 - [x]  Tipagem Fraca
 - [x]  Tipos em JavaScript: Number
