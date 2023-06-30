@@ -11,12 +11,12 @@
 - [x]  [Visão Geral de Algoritmo](./1.fundamentos/visaoGeral/visaoGeral.md)
 - [x]  [Visão Geral de Estruturas de Dados](./1.fundamentos/estruturaDeDados/estruturaDeDados.md)
 - [x]  [Organização Básica de um Código JS](./1.fundamentos/organização/organizacao.md)
-- [x]  O Básico de Var, Let e Const
-- [x]  Tipagem Fraca
-- [x]  Tipos em JavaScript: Number
-- [x]  Usando Math
-- [x]  Tipos em JavaScript: String
-- [x]  Tipos em JavaScript: Boolean
+- [x]  [O Básico de Var, Let e Const](./1.fundamentos/basicoVarLetConst/basicoVarLetConst.md)
+- [x]  [Tipagem Fraca](./1.fundamentos/tipagem_fraca/tipagemFraca.md)
+- [x]  [Tipos em JavaScript: Number](./1.fundamentos/numeros/numeros.md)
+- [x]  [Usando Math](./1.fundamentos/math/math.md)
+- [x]  [Tipos em JavaScript: String](./1.fundamentos/strings/strings.md)
+- [x]  [Tipos em JavaScript: Boolean](./1.fundamentos/booleanos/boolean.md)
 - [x]  Tipos em JavaScript: Array
 - [x]  Tipos em JavaScript: Object
 - [x]  Entendendo o Null & Undefined
