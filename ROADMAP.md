@@ -24,11 +24,10 @@
 - [x]  [Var](./1.fundamentos/Var/var.md)
 - [x]  [Let](./1.fundamentos/Let/let.md)
 - [x]  [Entendendo o Hoisting](./1.fundamentos/hoisting/hoisting.md)
-- [x]  Função Vs Objeto
-- [x]  Notação Ponto
-- [x]  Operadores: Atribuição
-- [x]  Operadores: Destructuring
-- [x]  Operadores: Aritméticos
+- [x]  [Notação Ponto](./1.fundamentos/notaçãoPonto/notacaoPonto.md)
+- [x]  [Operadores: Atribuição](./1.fundamentos/atribuição/atribuicao.md)
+- [x]  [Operadores: Destructuring](./1.fundamentos/destructuring/destructuring.md)
+- [x]  [Operadores: Aritméticos](./1.fundamentos/aritiméticos/aritimetico.md)
 - [x]  Operadores: Relacionais
 - [x]  Operadores: Lógicos
 - [x]  Operadores: Unários
