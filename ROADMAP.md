@@ -44,19 +44,18 @@
 - [x]  [Break/Continue](./2.controle/breakContinue/breakContinue.md)
 
 ## 3. Função
-- [x]  Parâmetros
-- [x]  This
-- [x]  Bind
-- [x]  Arrow Function
-- [x]  Funções anônimas
-- [x]  Callback
-- [x]  Funções Construtoras
-- [x]  Tipos de declaração
-- [x]  Contexto léxico
-- [x]  Closures
-- [x]  Função Factory
-- [x]  IIFE
-- [x]  Call & Apply
+- [x]  [Parâmetros](./3.função/params/params.md)
+- [x]  [This e Bind](./3.função/thisEBind/thisEBind.md)
+- [x]  [Arrow Function](./3.função/arrowFunction/arrowFunction.md)
+- [x]  [Funções anônimas](./3.função/funcoesAnonimas/funcoesAnonimas.md)
+- [x]  [Callback](./3.função/callback/callback.md)
+- [x]  [Funções Construtoras](./3.função/FuncaoConstrutora/FuncaoConstrutora.md)
+- [x]  [Tipos de declaração](./3.função/tiposDeclaração/tiposDeclaração.md)
+- [x]  [Contexto léxico](./3.função/contextoLexico/contextoLexico.md)
+- [x]  [Closures](./3.função/closure/closure.md)
+- [x]  [Função Factory](./3.função/factory/factory.md)
+- [x]  [IIFE](./3.função/iife/iife.md)
+- [x]  [Call & Apply](./3.função/callApply/callApply.md)
 
 ## 4. Objeto
 - [x]  Introdução OO
