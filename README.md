@@ -19,7 +19,7 @@
 
 ## [ROADMAP](ROADMAP.md) 🐘
 
-### Conteúdos
+### Conteúdos 📚
 
 0. [Inicio](./0.Inicio/)
 1. [Fundamentos do JavaScript](./1.fundamentos/)
@@ -36,8 +36,8 @@
 12. Bancos de dados (Relacionais e Não Relacionais)
 13. Express (Framework web)
 
-### Contribuição
+### Contribuição 🤝
 Sinta-se à vontade para contribuir com suas próprias anotações e exemplos adicionais. Basta fazer um fork deste repositório, adicionar suas alterações e enviar um pull request. Sua contribuição será muito bem-vinda!
 
-### Licença
+### Licença ✍
 Este projeto está licenciado sob a [MIT License](./assets/MIT-License.txt).
