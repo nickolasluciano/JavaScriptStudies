@@ -19,22 +19,25 @@
 
 ## [ROADMAP](ROADMAP.md) 🐘
 
-Conteúdo
-Fundamentos do JavaScript
-Estruturas de controle
-Funções
-Objetos
-Arrays
-Node.js
-ESNext
-Conceitos sobre web (HTML, CSS, Ajax)
-Ferramentas de automação (Gulp, Webpack)
-Bibliotecas (jQuery, Bootstrap)
-Frameworks (React, VueJS, Angular 9)
-Bancos de dados (Relacionais e Não Relacionais)
-Express (Framework web)
-Contribuição
+### Conteúdos 📚
+
+0. [Inicio](./0.Inicio/)
+1. [Fundamentos do JavaScript](./1.fundamentos/)
+2. [Estruturas de controle](./2.controle/)
+3. [Funções](./3.função/)
+4. [Objetos](./4.objeto/)
+5. [Arrays](./5.array)
+6. Node.js
+7. ESNext
+8. Conceitos sobre web (HTML, CSS, Ajax)
+9. Ferramentas de automação (Gulp, Webpack)
+10. Bibliotecas (jQuery, Bootstrap)
+11. Frameworks (React, VueJS, Angular 9)
+12. Bancos de dados (Relacionais e Não Relacionais)
+13. Express (Framework web)
+
+### Contribuição 🤝
 Sinta-se à vontade para contribuir com suas próprias anotações e exemplos adicionais. Basta fazer um fork deste repositório, adicionar suas alterações e enviar um pull request. Sua contribuição será muito bem-vinda!
 
-Licença
-Este projeto está licenciado sob a MIT License.
+### Licença ✍
+Este projeto está licenciado sob a [MIT License](./assets/MIT-License.txt).
