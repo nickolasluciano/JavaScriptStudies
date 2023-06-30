@@ -21,7 +21,7 @@
 - [x]  [Tipos em JavaScript: Object](./1.fundamentos/objeto/objeto.md)
 - [x]  [Entendendo o Null & Undefined](./1.fundamentos/nullUndefined/nullUndefined.md)
 - [x]  [Função](/1.fundamentos/funcao/funcao.md)
-- [x]  Var
+- [x]  [Var](./1.fundamentos/Var/var.md)
 - [x]  Let
 - [x]  Entendendo o Hoisting
 - [x]  Função Vs Objeto
