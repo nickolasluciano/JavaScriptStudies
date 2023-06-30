@@ -2,10 +2,10 @@
 
 
 ## 0. Início
-- [x]  Sentença de código
-- [x]  Comentários de código
-- [x]  Bloco de código
-- [x]  Trabalhando com Dados  
+- [x]  [Sentença de código](./0.Inicio/sentenca/sentenca.md)
+- [x]  [Comentários de código](./0.Inicio/comentario/comentario.md)
+- [x]  [Bloco de código](./0.Inicio/bloco/bloco.md)
+- [x]  [Trabalhando com Dados](./0.Inicio/dados/dados.md)
 
 ## 1. Fundamentos 
 - [x]  Visão Geral de Algoritmo
