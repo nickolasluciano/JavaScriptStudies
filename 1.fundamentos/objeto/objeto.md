@@ -8,7 +8,7 @@ Em JavaScript, você pode criar um objeto utilizando a sintaxe de chaves ({}) ou
 Exemplo:
 
 ```javascript
-javascriptCopy code
+
 // Sintaxe de chaves
 let pessoa = {
   nome: "João",
@@ -32,7 +32,7 @@ As propriedades de um objeto são as informações armazenadas dentro dele. Elas
 Exemplo:
 
 ```javascript
-javascriptCopy code
+
 let pessoa = {
   nome: "Maria",
   idade: 25,
@@ -52,7 +52,7 @@ Os métodos de um objeto são funções que estão associadas ao objeto e podem 
 Exemplo:
 
 ```javascript
-javascriptCopy code
+
 let pessoa = {
   nome: "Maria",
   idade: 25,
@@ -74,7 +74,7 @@ As propriedades de um objeto podem ser acessadas e modificadas usando a notaçã
 Exemplo:
 
 ```javascript
-javascriptCopy code
+
 let pessoa = {
   nome: "João",
   idade: 30
