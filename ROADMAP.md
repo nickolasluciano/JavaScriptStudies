@@ -58,17 +58,16 @@
 - [x]  [Call & Apply](./3.função/callApply/callApply.md)
 
 ## 4. Objeto
-- [x]  Introdução OO
-- [x]  Revisão sobre Objeto
-- [x]  Estratégias de Criação de Objetos
-- [x]  Objetos constantes
-- [x]  Notação Literal
-- [x]  Getters/Setters
-- [x]  Funções Importantes de Objeto
-- [x]  Herança
-- [x]  Evitando Modificações
-- [x]  JSON vs Objeto
-- [x]  Classe
+- [x]  [Introdução OO](./4.objeto/oo/oo.md)
+- [x]  [Revisão sobre Objeto](./4.objeto/ObjetoRevisão/ObjetoRevisão.md)
+- [x]  [Estratégias de Criação de Objetos](./4.objeto/criandoObj/criandoObj.md)
+- [x]  [Objetos constantes](./4.objeto/objetosConstantes/objetosConstantes.md)
+- [x]  [Notação Literal](./4.objeto/notacaoLiteral/notacaoLiteral.md)
+- [x]  [Getters/Setters](./4.objeto/gettersESetters/gettersESetters.md)
+- [x]  [Funções Importantes de Objeto](./4.objeto/funcoesImportantes/funcoesImportantes.md)
+- [x]  [Herança](./4.objeto/herança/herança.md)
+- [x]  [JSON vs Objeto](./4.objeto/jsonVsObjeto/jsonVsObjeto.md)
+- [x]  [Classe](./4.objeto/classe/classe.md)
 
 ## 5. Array
 - [x]  Visão geral
