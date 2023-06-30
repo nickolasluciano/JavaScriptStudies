@@ -24,16 +24,16 @@ No exemplo acima, o loop **`for`** é executado enquanto **`i`** for menor que 5
 2
 ```
     
-    Observe que o número 3 não foi impresso, pois o loop foi interrompido antes de atingir esse valor.
-    
-    O comando **`break`** também pode ser usado em blocos condicionais, como o **`switch`**, para sair antecipadamente de um caso específico. Nesse caso, o controle é transferido para a próxima instrução após o **`switch`**.
+Observe que o número 3 não foi impresso, pois o loop foi interrompido antes de atingir esse valor.
+
+O comando **`break`** também pode ser usado em blocos condicionais, como o **`switch`**, para sair antecipadamente de um caso específico. Nesse caso, o controle é transferido para a próxima instrução após o **`switch`**.
     
 2. Comando **`continue`**:
 O comando **`continue`** é usado para interromper a iteração atual de um loop e passar para a próxima iteração, ignorando o restante do código dentro do bloco do loop.
     
-    Quando o comando **`continue`** é executado, ele pula para a próxima iteração do loop, ignorando o código abaixo dele no bloco do loop.
-    
-    Exemplo do uso do **`continue`** em um loop **`for`**:
+Quando o comando **`continue`** é executado, ele pula para a próxima iteração do loop, ignorando o código abaixo dele no bloco do loop.
+
+Exemplo do uso do **`continue`** em um loop **`for`**:
     
 ```javascript
 for (var i = 0; i < 5; i++) {
@@ -44,7 +44,7 @@ for (var i = 0; i < 5; i++) {
 }
 ```
     
-    No exemplo acima, quando **`i`** é igual a 2, o comando **`continue`** é acionado. Isso faz com que a iteração atual seja interrompida e o controle seja transferido para a próxima iteração do loop. O resultado impresso no console será:
+No exemplo acima, quando **`i`** é igual a 2, o comando **`continue`** é acionado. Isso faz com que a iteração atual seja interrompida e o controle seja transferido para a próxima iteração do loop. O resultado impresso no console será:
     
 ```
 0
@@ -53,9 +53,9 @@ for (var i = 0; i < 5; i++) {
 4
 ```
     
-    Observe que o número 2 não foi impresso, pois a iteração correspondente foi pulada devido ao comando **`continue`**.
-    
-    O comando **`continue`** também pode ser usado em loops aninhados para pular iterações específicas em loops internos.
-    
+Observe que o número 2 não foi impresso, pois a iteração correspondente foi pulada devido ao comando **`continue`**.
+
+O comando **`continue`** também pode ser usado em loops aninhados para pular iterações específicas em loops internos.
+
 
 Esses são os conceitos básicos do comando **`break`** e do comando **`continue`** em JavaScript. Eles são úteis para controlar o fluxo de execução em loops e blocos condicionais. Certifique-se de utilizá-los com cuidado para evitar comportamentos inesperados.
