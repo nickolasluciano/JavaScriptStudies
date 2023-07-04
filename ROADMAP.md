@@ -72,7 +72,7 @@
 ## 5. Array
 - [x]  [Visão geral](./5.array/visaoGeral/visaoGeral.md)
 - [x]  [Métodos Importantes](./5.array/metodoImportantes/metodosImportantes.md)
-- [ ]  Foreach
+- [x]  [Foreach](./5.array/Foreach/Foreach.md)
 - [ ]  Map
 - [ ]  Filter
 - [ ]  Reduce
