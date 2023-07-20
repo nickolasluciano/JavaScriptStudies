@@ -73,7 +73,7 @@
 - [x]  [Visão geral](./5.array/visaoGeral/visaoGeral.md)
 - [x]  [Métodos Importantes](./5.array/metodoImportantes/metodosImportantes.md)
 - [x]  [Foreach](./5.array/Foreach/Foreach.md)
-- [ ]  Map
+- [ ]  [Map](./5.array/map/map.md)
 - [ ]  Filter
 - [ ]  Reduce
 - [ ]  Imperativo Vs Declarativo
